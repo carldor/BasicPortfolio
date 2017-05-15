@@ -92,6 +92,9 @@ footer{
 #lastpage{
 	border-right: none;
 }
+.pages:hover { 
+    background-color: #F8F8F8;
+}
 .connect{
 	color: #4aaaa5;
 	text-align: center; 
